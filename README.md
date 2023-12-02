@@ -23,8 +23,8 @@ The curl for all the endpoints are added in the postman documentation.
 
 .env variables to be added
   
-  PORT=YOUR_PORT
-  DBURL=YOUR_ATLAS_URL
-  SECRET_KEY=YOUR_SECRET_KEY
+ 1. PORT=YOUR_PORT 
+ 2. DBURL=YOUR_ATLAS_URL
+ 3. SECRET_KEY=YOUR_SECRET_KEY
 
 
